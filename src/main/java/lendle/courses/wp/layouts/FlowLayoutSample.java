@@ -29,7 +29,7 @@ public class FlowLayoutSample {
         //1. create five buttons, add them to the frame
         //2. test the effect of setAlignment
         //3. test the effect of hgap and vgap
-        
+       
         //////////////////////////////////////////////////////////////////////
         
         frame.setVisible(true);
